@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="525" started-at="2022-01-18T06:42:52Z" finished-at="2022-01-18T06:42:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="525" started-at="2022-01-18T06:42:52Z" finished-at="2022-01-18T06:42:52Z">
+      <class name="TestNG.Priority_Test">
+        <test-method status="PASS" signature="setProperty()[pri:-1, instance:TestNG.Priority_Test@147ed70f]" name="setProperty" duration-ms="36" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestNG.Priority_Test@147ed70f]" name="browserLaunch" duration-ms="7" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="GetURL()[pri:1, instance:TestNG.Priority_Test@147ed70f]" name="GetURL" duration-ms="18" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURL -->
+        <test-method status="PASS" signature="signin()[pri:2, instance:TestNG.Priority_Test@147ed70f]" name="signin" duration-ms="14" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signout()[pri:3, instance:TestNG.Priority_Test@147ed70f]" name="signout" duration-ms="34" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="womens_Shirt()[pri:4, instance:TestNG.Priority_Test@147ed70f]" name="womens_Shirt" duration-ms="10" started-at="2022-01-18T12:12:52Z" finished-at="2022-01-18T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womens_Shirt -->
+      </class> <!-- TestNG.Priority_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
